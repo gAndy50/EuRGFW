@@ -1,6 +1,7 @@
 # EuRGFW
 
 EuRGFW is a wrapper of RGFW for the openEuphoria programming language. RGFW can serve as an alternative to GLFW. 
+NOTE: Use rgfw.dll for 64-bit euphoria and rgfw32.dll for 32-bit euphoria. 
 
 # LICENSE
 
