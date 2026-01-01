@@ -6,7 +6,7 @@ NOTE: Use rgfw.dll for 64-bit euphoria and rgfw32.dll for 32-bit euphoria.
 
 # LICENSE
 
-Copyright (c) <2025> <Icy_Viking>
+Copyright (c) <2026> <Icy_Viking>
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
