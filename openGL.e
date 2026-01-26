@@ -2,7 +2,7 @@
 --EuOpenGL
 --Written by Andy P.
 --OpenGL wrapper for OpenEuphoria
---Copyright (c) 2025
+--Copyright (c) 2026
 ------------------------------------
 include std/ffi.e
 include std/machine.e
@@ -3272,4 +3272,5 @@ public constant xglEndList = define_c_proc(gl,"+glEndList",{})
 public procedure glEndList()
 	c_proc(xglEndList,{})
 end procedure
-­9.16
+
+Â­9.16
